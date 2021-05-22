@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Samuel Wong</title>
-    <link>https://chunyip135.github.io/soho/projects/</link>
-    <description>Recent content in Projects on Samuel Wong</description>
+    <title>Git on Samuel Wong</title>
+    <link>https://chunyip135.github.io/soho/tags/git/</link>
+    <description>Recent content in Git on Samuel Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chunyip135.github.io/soho/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chunyip135.github.io/soho/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

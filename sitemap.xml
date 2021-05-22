@@ -3,28 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chunyip135.github.io/soho/tags/emoji/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <loc>https://chunyip135.github.io/soho/categories/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chunyip135.github.io/soho/post/first/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <loc>https://chunyip135.github.io/soho/tags/git/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chunyip135.github.io/soho/post/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <loc>https://chunyip135.github.io/soho/tags/heroku/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/projects/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/tags/python/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/series/python-for-finance/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/series/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chunyip135.github.io/soho/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/categories/stock/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/projects/stock_screener/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/tags/streamlit/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chunyip135.github.io/soho/tags/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/soho/categories/webapps/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,19 +78,11 @@
   </url>
   
   <url>
-    <loc>https://chunyip135.github.io/soho/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://chunyip135.github.io/soho/tags/index/</loc>
   </url>
   
   <url>
-    <loc>https://chunyip135.github.io/soho/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chunyip135.github.io/soho/series/</loc>
+    <loc>https://chunyip135.github.io/soho/post/</loc>
   </url>
   
 </urlset>

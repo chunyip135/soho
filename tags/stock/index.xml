@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stock on Samuel Wong</title>
+    <link>https://chunyip135.github.io/soho/tags/stock/</link>
+    <description>Recent content in stock on Samuel Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chunyip135.github.io/soho/tags/stock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock Screener</title>
+      <link>https://chunyip135.github.io/soho/projects/stock_screener/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chunyip135.github.io/soho/projects/stock_screener/</guid>
+      <description>Projects Link:  Github Webapps  Descriptions  Using Python to build a website that displays various information on different stocks from NASDAQ such as moving averages (SMA, EMA, WMA) with interactive functions and hosted on Heroku with Git Python library used: Streamlit, Pandas, Pandas_datareader, Matplotlib, Plotly Tools: Heroku, Git  Learning outcomes  Learned how to use Git and Heroku to deploy python scripts into the web.</description>
+    </item>
+    
+  </channel>
+</rss>

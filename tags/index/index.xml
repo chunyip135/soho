@@ -11,20 +11,20 @@
     
     
     <item>
-      <title>Posts</title>
-      <link>https://chunyip135.github.io/soho/post/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>https://chunyip135.github.io/soho/projects/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chunyip135.github.io/soho/post/</guid>
+      <guid>https://chunyip135.github.io/soho/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://chunyip135.github.io/soho/projects/</link>
+      <title>Posts</title>
+      <link>https://chunyip135.github.io/soho/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chunyip135.github.io/soho/projects/</guid>
+      <guid>https://chunyip135.github.io/soho/post/</guid>
       <description></description>
     </item>
     
